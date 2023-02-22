@@ -37,3 +37,4 @@ function calculatesFarePrice(start, destintation){
     }
 
 }
+
